@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{DB148404-36B2-479C-982A-9C8D3A3401B5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Movies/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Movies/Create.cshtml">
     <Files>
-      <File FileName="Pages/Movies/Edit.cshtml" Line="1" Column="1" />
       <File FileName="Pages/Movies/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Index.cshtml.cs" Line="29" Column="1" />
+      <File FileName="Pages/Movies/Create.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="35" Column="64" />
+      <File FileName="Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Create.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
