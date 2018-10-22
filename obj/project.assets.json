@@ -12558,11 +12558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mattsmith/Desktop/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/mattsmith/Desktop/Movies/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/mattsmith/Desktop/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/Users/mattsmith/Desktop/Movies/RazorPagesMovie.csproj",
       "packagesPath": "/Users/mattsmith/.nuget/packages/",
-      "outputPath": "/Users/mattsmith/Desktop/RazorPagesMovie/obj/",
+      "outputPath": "/Users/mattsmith/Desktop/Movies/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
